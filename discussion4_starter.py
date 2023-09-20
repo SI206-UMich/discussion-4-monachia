@@ -1,3 +1,6 @@
+#Arvin Bansal
+#09/20/23
+
 class Rectangle():
     # Create the constructor "__init__" method
     # Arguments: width (an ingeter), height (an integer)
