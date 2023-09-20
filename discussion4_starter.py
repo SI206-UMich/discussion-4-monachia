@@ -8,7 +8,7 @@ class Rectangle():
     # YOUR CODE HERE
     def __init__(self, width, height):
         self.height = height
-        self.width = widt
+        self.width = width
 
 
     # Create the "__str__" method
